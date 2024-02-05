@@ -40,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@DivineUgorji](https://www.frontendmentor.io/profile/DivineUgorji)
-- Twitter - [@yourusername](https://www.twitter.com/divine__ugorji)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/DivineUgorji)
+- [Twitter](https://www.twitter.com/divine__ugorji)
 
 ## Acknowledgments
