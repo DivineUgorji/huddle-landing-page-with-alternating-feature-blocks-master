@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-99sIiRNEiu)
-- Live Site URL: [](https://huddle-landing-page-divine.netlify.app/)
+- [ Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-99sIiRNEiu)
+- [Live Site URL](https://huddle-landing-page-divine.netlify.app/)
 
 ## My process
 
